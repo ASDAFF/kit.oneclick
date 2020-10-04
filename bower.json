@@ -1,0 +1,13 @@
+{
+  "name": "kit.oneclick",
+  "version": "1.0.10",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
