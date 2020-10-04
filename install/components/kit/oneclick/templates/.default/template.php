@@ -117,7 +117,7 @@ CUtil::InitJSCore(array('kit_oneclick_popup'));
 
                     <?php if ($arResult['AGREE_PROCESSING_TEXT']) { ?>
                         <div id="<?php echo $AGREE_PROCESSING_TEXT_dialog_CSS_ID; ?>"
-                             class="interlbas__info-dialog hidden">
+                             class="ktc__info-dialog hidden">
                             <div class="header">
                                 <label><?php echo Loc::getMessage("AGREE_PROCESSING_DIALOG_TITLE"); ?></label>
                                 <span class="close-dialog"

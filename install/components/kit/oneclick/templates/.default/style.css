@@ -273,7 +273,7 @@
   color: #EB5757;
   margin-bottom: 18px;
 }
-.kit-oneclick__container .interlbas__info-dialog {
+.kit-oneclick__container .ktc__info-dialog {
   background: #FFFFFF;
   -webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
@@ -288,14 +288,14 @@
   top: 30%;
   left: 30%;
 }
-.kit-oneclick__container .interlbas__info-dialog.hidden {
+.kit-oneclick__container .ktc__info-dialog.hidden {
   display: none;
 }
-.kit-oneclick__container .interlbas__info-dialog .scroll-area {
+.kit-oneclick__container .ktc__info-dialog .scroll-area {
   height: 300px;
   overflow-y: auto;
 }
-.kit-oneclick__container .interlbas__info-dialog .header {
+.kit-oneclick__container .ktc__info-dialog .header {
   border-bottom: 1px solid #70BB18;
   min-height: 48px;
   display: -webkit-box;
@@ -308,7 +308,7 @@
       -ms-flex-align: center;
           align-items: center;
 }
-.kit-oneclick__container .interlbas__info-dialog .header label {
+.kit-oneclick__container .ktc__info-dialog .header label {
   font-style: normal;
   font-weight: 500;
   line-height: 34px;
@@ -316,13 +316,13 @@
   color: #000000;
   margin-right: 12px;
 }
-.kit-oneclick__container .interlbas__info-dialog .header .close-dialog {
+.kit-oneclick__container .ktc__info-dialog .header .close-dialog {
   cursor: pointer;
 }
-.kit-oneclick__container .interlbas__info-dialog .body .form-group {
+.kit-oneclick__container .ktc__info-dialog .body .form-group {
   margin-bottom: 28px;
 }
-.kit-oneclick__container .interlbas__info-dialog .body .form-group .btn.btn-close {
+.kit-oneclick__container .ktc__info-dialog .body .form-group .btn.btn-close {
   width: 144px;
   height: 36px;
   background: #70BB18;
@@ -357,11 +357,11 @@
     width: 180px;
     height: 40px;
   }
-  .kit-oneclick__container .interlbas__info-dialog {
+  .kit-oneclick__container .ktc__info-dialog {
     top: 50px;
     left: 0;
   }
-  .kit-oneclick__container .interlbas__info-dialog .scroll-area {
+  .kit-oneclick__container .ktc__info-dialog .scroll-area {
     height: 150px;
     overflow-y: auto;
   }
